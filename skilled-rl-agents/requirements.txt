@@ -1,0 +1,14 @@
+huggingface-hub==0.36.0
+kornia==0.8.2
+huggingface_sb3==3.0
+shimmy==2.0.0
+gymnasium[atari,accept-rom-license]==1.2.2
+ale-py==0.11.2
+stable-baselines3[extra]==2.7.1
+opencv-python==4.12.0.88
+imageio==2.37.2
+moviepy==1.0.3
+git+https://github.com/mila-iqia/atari-representation-learning.git
+git+https://github.com/openai/baselines # baselines==0.1.6
+gym[atari]==0.15.7
+git+https://github.com/ankeshanand/pytorch-a2c-ppo-acktr-gail
