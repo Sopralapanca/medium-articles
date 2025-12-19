@@ -1,0 +1,3 @@
+[submodule "skill-based-agents"]
+	path = skill-based-agents
+	url = https://github.com/Sopralapanca/medium-skill-based-agents.git
